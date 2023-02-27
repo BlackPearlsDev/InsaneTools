@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "insanetools:item/insane_sword_tellurite"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "result": {
+        "item": "insanetools:insane_sword_tellurite"
+    },
+    "pattern": [
+        " # ",
+        "/#/",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "item": "insanetools:tellurite_block"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    }
+}

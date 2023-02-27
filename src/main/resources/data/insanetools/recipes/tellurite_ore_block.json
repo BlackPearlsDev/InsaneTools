@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "insanetools:tellurite_ore_block"
+    },
+    "result": "insanetools:tellurite",
+    "experience": 80.0,
+    "cookingtime": 100
+}

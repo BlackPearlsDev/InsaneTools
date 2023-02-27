@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "result": {
+        "item": "insanetools:tellurite",
+        "count": 9
+    },
+    "pattern": [
+        "   ",
+        " # ",
+        "   "
+    ],
+    "key": {
+        "#": {
+            "item": "insanetools:tellurite_block"
+        }
+    }
+}
