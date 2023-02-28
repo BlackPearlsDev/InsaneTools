@@ -1,26 +1,26 @@
 {
-    "criteria": {
-      "insanetools": {
-        "trigger": "minecraft:location",
-        "conditions": {
-          "dimension": "overworld"
-        }
+  "criteria":{
+      "insanetools":{
+          "trigger":"minecraft:location",
+          "conditions":{
+              "dimension":"overworld"
+          }
       }
-    },
-    "display": {
-      "announce_to_chat": false,
-      "icon": {
-        "item": "insanetools:tellurite"
+  },
+  "display":{
+      "icon":{
+          "item":"insanetools:tellurite"
       },
-      "title": {
-        "translate": "advancement.insanetools.overworld.root"
+      "title":{
+          "translate":"advancement.insanetools.overworld.root"
       },
-      "description": {
-        "translate": "advancement.insanetools.overworld.root.desc"
+      "description":{
+          "translate":"advancement.insanetools.overworld.root.desc"
       },
-      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
-      "frame": "task",
-      "hidden": false,
-      "show_toast": false
-    }
+      "background":"minecraft:textures/gui/advancements/backgrounds/stone.png",
+      "frame":"task",
+      "hidden":false,
+      "show_toast":false,
+      "announce_to_chat":false
   }
+}

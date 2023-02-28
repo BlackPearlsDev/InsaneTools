@@ -10,6 +10,12 @@
     "advancement.insanetools.overworld.mine_tellurite.desc": "Mine your first Tellurite ore.",
     "advancement.insanetools.overworld.craft_tellurite.title": "Tellurite !",
     "advancement.insanetools.overworld.craft_tellurite.desc": "Craft your first Tellurite.",
-    "advancements.insanetools.overworld.smelt_tellurite.title": "Plan B",
-    "advancements.insanetools.overworld.smelt_tellurite.desc": "Finally smelting is better than crafting ?"
+    "advancement.insanetools.overworld.smelt_tellurite.title": "Plan B",
+    "advancement.insanetools.overworld.smelt_tellurite.desc": "Finally smelting is better than crafting ?",
+    "advancement.insanetools.overworld.craft_tellurite_block.title": "Shiny Block",
+    "advancement.insanetools.overworld.craft_tellurite_block.desc": "Craft your first Tellurite Block.",
+    "advancement.insanetools.overworld.craft_tellurite_sword.title": "Pro Player",
+    "advancement.insanetools.overworld.craft_tellurite_sword.desc": "Really nice upgrade bro.",
+    "advancement.insanetools.overworld.craft_tellurite_pickaxe.title": "Time to dig !",
+    "advancement.insanetools.overworld.craft_tellurite_pickaxe.desc": "Dig master ?"
 }

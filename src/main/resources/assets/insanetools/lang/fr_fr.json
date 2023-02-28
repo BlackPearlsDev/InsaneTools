@@ -10,6 +10,12 @@
     "advancement.insanetools.overworld.mine_tellurite.desc": "Minez votre premier minerai de tellurite.",
     "advancement.insanetools.overworld.craft_tellurite.title": "Tellurite !",
     "advancement.insanetools.overworld.craft_tellurite.desc": "Fabriquez votre première Tellurite.",
-    "advancements.insanetools.overworld.smelt_tellurite.title": "Plan B",
-    "advancements.insanetools.overworld.smelt_tellurite.desc": "Finalement fondre c'est mieux que craft ?"
+    "advancement.insanetools.overworld.smelt_tellurite.title": "Plan B",
+    "advancement.insanetools.overworld.smelt_tellurite.desc": "Finalement fondre c'est mieux que craft ?",
+    "advancement.insanetools.overworld.craft_tellurite_block.title": "Ça brille",
+    "advancement.insanetools.overworld.craft_tellurite_block.desc": "Fabriquez votre premier bloc de tellurite.",
+    "advancement.insanetools.overworld.craft_tellurite_sword.title": "Joueur Pro",
+    "advancement.insanetools.overworld.craft_tellurite_sword.desc": "Très belle amélioration.",
+    "advancement.insanetools.overworld.craft_tellurite_pickaxe.title": "L'heure de miner !",
+    "advancement.insanetools.overworld.craft_tellurite_pickaxe.desc": "T'es le boss du minage ?"
 }

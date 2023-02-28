@@ -1,38 +1,37 @@
 {
-    "parent": "insanetools:overworld/root",
-    "criteria": {
-      "mine_tellurite": {
-        "trigger": "minecraft:inventory_changed",
-        "conditions": {
-          "items": [
-            {
-              "items": [
-                "insanetools:tellurite_ore_block"
+  "display":{
+      "icon":{
+          "item":"insanetools:tellurite_ore_block"
+      },
+      "title":{
+          "translate":"advancement.insanetools.overworld.mine_tellurite.title"
+      },
+      "description":{
+          "translate":"advancement.insanetools.overworld.mine_tellurite.desc"
+      },
+      "frame":"task",
+      "show_toast":true,
+      "announce_to_chat":true,
+      "hidden":false
+  },
+  "parent":"insanetools:overworld/root",
+  "criteria":{
+      "mine_tellurite":{
+          "trigger":"minecraft:inventory_changed",
+          "conditions":{
+              "items":[
+                  {
+                      "items":[
+                          "insanetools:tellurite_ore_block"
+                      ]
+                  }
               ]
-            }
-          ]
-        }
+          }
       }
-    },
-    "display": {
-      "icon": {
-        "item": "insanetools:tellurite_ore_block"
-      },
-      "title": {
-        "translate": "advancement.insanetools.overworld.mine_tellurite.title"
-      },
-      "description": {
-        "translate": "advancement.insanetools.overworld.mine_tellurite.desc"
-      },
-      "frame": "task",
-      "show_toast": true,
-      "announce_to_chat": true,
-      "hidden": false
-    },
-    "requirements": [
+  },
+  "requirements":[
       [
-        "mine_tellurite"
+          "mine_tellurite"
       ]
-    ]
-  }
-  
+  ]
+}
