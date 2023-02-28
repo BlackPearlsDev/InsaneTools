@@ -3,5 +3,13 @@
     "item.insanetools.insane_pickaxe_tellurite": "Insane Pickaxe Tellurite",
     "block.insanetools.tellurite_ore_block": "Tellurite Ore",
     "item.insanetools.tellurite": "Tellurite",
-    "block.insanetools.tellurite_block": "Tellurite Block"
+    "block.insanetools.tellurite_block": "Tellurite Block",
+    "advancement.insanetools.overworld.root": "Insane Tools",
+    "advancement.insanetools.overworld.root.desc": "The beginning ..",
+    "advancement.insanetools.overworld.mine_tellurite.title": "Tellurite Ore !",
+    "advancement.insanetools.overworld.mine_tellurite.desc": "Mine your first Tellurite ore.",
+    "advancement.insanetools.overworld.craft_tellurite.title": "Tellurite !",
+    "advancement.insanetools.overworld.craft_tellurite.desc": "Craft your first Tellurite.",
+    "advancements.insanetools.overworld.smelt_tellurite.title": "Plan B",
+    "advancements.insanetools.overworld.smelt_tellurite.desc": "Finally smelting is better than crafting ?"
 }

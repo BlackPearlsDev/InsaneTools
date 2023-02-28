@@ -1,0 +1,38 @@
+{
+    "parent": "insanetools:overworld/mine_tellurite",
+    "criteria": {
+      "craft_tellurite": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "insanetools:tellurite_ore"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "display": {
+      "icon": {
+        "item": "insanetools:tellurite_ore"
+      },
+      "title": {
+        "translate": "advancement.insanetools.overworld.craft_tellurite.title"
+      },
+      "description": {
+        "translate": "advancement.insanetools.overworld.craft_tellurite.desc"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "requirements": [
+      [
+        "craft_tellurite"
+      ]
+    ]
+  }
+  

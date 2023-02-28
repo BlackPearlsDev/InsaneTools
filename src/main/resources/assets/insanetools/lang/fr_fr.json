@@ -3,5 +3,13 @@
     "item.insanetools.insane_pickaxe_tellurite": "Pioche en Tellurite",
     "block.insanetools.tellurite_ore_block": "Minerai de Tellurite",
     "item.insanetools.tellurite": "Tellurite",
-    "block.insanetools.tellurite_block": "Bloc de Tellurite"
+    "block.insanetools.tellurite_block": "Bloc de Tellurite",
+    "advancement.insanetools.overworld.root": "Insane Tools",
+    "advancement.insanetools.overworld.root.desc": "Le commencement ..",
+    "advancement.insanetools.overworld.mine_tellurite.title": "Minerai de Tellurite !",
+    "advancement.insanetools.overworld.mine_tellurite.desc": "Minez votre premier minerai de tellurite.",
+    "advancement.insanetools.overworld.craft_tellurite.title": "Tellurite !",
+    "advancement.insanetools.overworld.craft_tellurite.desc": "Fabriquez votre première Tellurite.",
+    "advancements.insanetools.overworld.smelt_tellurite.title": "Plan B",
+    "advancements.insanetools.overworld.smelt_tellurite.desc": "Finalement fondre c'est mieux que craft ?"
 }
