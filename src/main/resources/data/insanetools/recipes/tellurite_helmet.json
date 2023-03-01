@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "result": {
+        "item": "insanetools:tellurite_helmet"
+    },
+    "pattern": [
+        "###",
+        "# #",
+        "   "
+    ],
+    "key": {
+        "#": {
+            "item": "insanetools:tellurite_block"
+        }
+    }
+}

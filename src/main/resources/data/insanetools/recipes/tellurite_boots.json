@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "result": {
+        "item": "insanetools:tellurite_boots"
+    },
+    "pattern": [
+        "   ",
+        "# #",
+        "# #"
+    ],
+    "key": {
+        "#": {
+            "item": "insanetools:tellurite_block"
+        }
+    }
+}
